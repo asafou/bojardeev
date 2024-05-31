@@ -3,7 +3,7 @@
 "version": "test v1",
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "1de0a6855",
+	"ironId": "",
 	"ironBanner": "fmyq6yirkatzpj1q",
 	"ironInter": "xfk5mnews5prfy4w",
 	"ironReward": "e0qnile75080ywxz",
